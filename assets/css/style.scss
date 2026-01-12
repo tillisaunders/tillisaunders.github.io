@@ -3,23 +3,38 @@
 
 @import "{{ site.theme }}";
 
-// 1. Remove the max-width and centering from the main wrapper
+// 1. Reset the wrapper to allow side-by-side alignment at the top
 .wrapper {
-  max-width: none;     // Removes the 850px limit
-  margin: 0;           // Removes the centering
-  padding-left: 5%;    // Adds a tiny bit of breathing room from the edge
-  padding-right: 5%;   // Balanced spacing on the right
+  max-width: none;
+  margin: 0;
+  display: flex;       // Use Flexbox to align them perfectly
+  align-items: flex-start; 
+  padding: 20px 5%;
 }
 
-// 2. Ensure the sidebar (header) is at the far left
+// 2. Fix the Sidebar (Header)
 header {
-  position: relative;
-  left: 0;
-  width: 250px;        // You can adjust this width as needed
+  width: 300px;
+  position: sticky;    // Optional: keeps your bio visible while scrolling
+  top: 20px;
+  flex-shrink: 0;      // Stops the sidebar from getting squished
 }
 
-// 3. Move the main content (section) over to make room
+// 3. Fix the Main Body (Section)
 section {
-  width: calc(100% - 300px);
-  margin-left: 280px;  // Gap between sidebar and content
+  width: auto;
+  flex-grow: 1;        // Takes up the remaining horizontal space
+  margin: 0 0 0 40px;  // Adds a 40px gap between bio and body content
+  padding: 0;          // Removes any top padding pushing it down
+}
+
+// 4. Mobile Responsiveness
+@media screen and (max-width: 640px) {
+  .wrapper {
+    display: block;    // Stacks them vertically on phones
+  }
+  header, section {
+    width: auto;
+    margin: 0;
+  }
 }
