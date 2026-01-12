@@ -2,12 +2,16 @@
 
 # Zen Match
 <img width="222" height="296" alt="image" src="https://github.com/user-attachments/assets/32968f8e-04c8-4036-b376-6259c4a38f04" />
+<br>
+<br>
 Responsibilities
 - Creation of levels across the whole flow, as of now I have created over 200 levels.
 - Creation and maintenance of documentation, specifically PRDs, Design Documents, Design Processes and Tool Breakdowns.
 
 # Hole Stars
 <img width="222" height="296" alt="image" src="https://github.com/user-attachments/assets/f6df6015-4934-4193-88e8-412edc797e6f" />
+<br>
+<br>
 Responsibilities
 - Creation of levels across the whole flow, as of now I have created over 500 levels.
 - Revisiting old levels and changing them to better fit our newer design practices
