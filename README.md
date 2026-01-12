@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Tilli, a Level and Game Designer based in the UK!
+
+- 🔭 I’m currently working on ...
+- Zen Match (Moon Active)
 
 <!--
 **tillisaunders/tillisaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
