@@ -1,28 +1,17 @@
 ## What I'm working on... ✨
 
-# Zen Match (Moon Active)
-- Level Design
-- Documentation
+# Zen Match
+<img width="222" height="296" alt="image" src="https://github.com/user-attachments/assets/32968f8e-04c8-4036-b376-6259c4a38f04" />
+Responsibilities
+- Creation of levels across the whole flow, as of now I have created over 200 levels.
+- Creation and maintenance of documentation, specifically PRDs, Design Documents, Design Processes and Tool Breakdowns.
 
-# Hole Stars (Moon Active)
-- Level Design
-- Documentation
-- Level Editor Development
-- Level Editor QA
-- Blocker Development
-- Blocker QA
+# Hole Stars
+<img width="222" height="296" alt="image" src="https://github.com/user-attachments/assets/f6df6015-4934-4193-88e8-412edc797e6f" />
+Responsibilities
+- Creation of levels across the whole flow, as of now I have created over 500 levels.
+- Revisiting old levels and changing them to better fit our newer design practices
+- Creation and maintenance of documentation, specifically Design Processes and Tool Breakdowns.
+- Ownership of Level Editor development, specifically working alongside Dev teams to bring to life our most needed features to speed up level creation.
+- Ownership of QA for the Level Editor, making sure each build is usable for the team.
 
-<!--
-**tillisaunders/tillisaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
