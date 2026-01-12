@@ -32,13 +32,18 @@ section {
 @media screen and (max-width: 640px) {
   .wrapper {
     display: block;    // Stacks them vertically on phones
-  }
+}
   header, section {
     width: auto;
     margin: 0;
-  }
-  // Hide the "View on GitHub" button/link in the sidebar
-  header ul {
-    display: none;
-  }
+}
+  // This targets the specific list of buttons in the sidebar
+.downloads {
+  display: none !important;
+}
+
+// Just in case your theme version uses the 'view-on-github' class
+.view-on-github {
+  display: none !important;
+}
 }
