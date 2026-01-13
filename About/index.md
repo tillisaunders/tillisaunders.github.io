@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Me
+permalink: /about/
+---
+
 <div style="display: flex; justify-content: space-between; max-width: 600px;">
   <a href="./">Home</a>
   <a href="./about/index.md">About</a>
