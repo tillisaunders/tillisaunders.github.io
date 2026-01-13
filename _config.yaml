@@ -1,4 +1,4 @@
-remote_theme: "jekyll-theme-mediumish"
+remote_theme: "https://github.com/codebygina/mediumish-theme-jekyll"
 plugins:
   - jekyll-remote-theme
 title: Tilli Netta Saunders
