@@ -1,5 +1,3 @@
-remote_theme: "https://github.com/codebygina/mediumish-theme-jekyll"
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minimal
 title: Tilli Netta Saunders
 description: "Mixed-Discipline Designer with a background in Mobile and F2P gaming.<br><br>Based in England, working out of London.<br><br>Looking for Level or Game Designer roles, Hybrid or Remote, London based."
