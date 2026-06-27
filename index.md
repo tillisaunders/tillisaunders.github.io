@@ -1,7 +1,13 @@
-<div style="display: flex; justify-content: space-between; max-width: 600px;">
-  <a href="./">Home</a>
-  <a href="./About/">About</a>
-  <a href="./Work/">Work</a>
-  <a href="./Blog/">Blog</a>
-  <a href="./Contact/">Contact</a>
-</div>
+---
+layout: default
+title: Home
+---
+# Tilli Netta Saunders
+
+Mixed-Discipline Designer with a background in Mobile and F2P gaming.
+
+Based in England, working out of London. Looking for Level or Game Designer roles (Hybrid or Remote, or London based).
+
+* [About Me](/about)
+* [My Work](/work)
+* [Read my Blog](/blog)
