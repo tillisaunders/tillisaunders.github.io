@@ -1,0 +1,13 @@
+<div class="user">
+  {% for section in site.data.expertise.sections %}
+  <div class="tech">
+    <h2>{{ section.title }}</h2>
+    <div class="tech-icons" aria-hidden="true">
+      {% for icon in section.icons %}
+      <i class="{{ icon }}"></i>
+      {% endfor %}
+    </div>
+    <p>{{ section.body }}</p>
+  </div>
+  {% endfor %}
+</div>
