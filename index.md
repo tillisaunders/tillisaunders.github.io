@@ -6,9 +6,7 @@ layout: default
 
 ## About Me
 
-I am a Mixed-Discipline Designer. My professional background is rooted in Mobile Free-to-Play (F2P) gaming.
-
-I am currently living in Kent, communting into London. I am seeking new opportunities as a Level Designer or Game Designer, preferably hybrid or remote roles.
+Hey, I'm Tilli! I'm a Level Designer living in Kent, communting into London. I am seeking new opportunities as a Level Designer or Game Designer, preferably hybrid or remote roles.
 
 Outside of work, I am rarely far from a good game. Some of my all-time favourites include Half-Life 2, RuneScape (OSRS and RS3!!), TES IV: Oblivion, Persona 5, and Fire Emblem: Three Houses. As you can see, it's a mix of immersive worlds, memorable characters, and systems that keep me thinking long after I have put the controller down. I think that curiosity about how games feel to play, and why players keep coming back, is a big part of what drew me to design in the first place.
 
