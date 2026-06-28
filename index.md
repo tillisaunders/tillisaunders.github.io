@@ -4,12 +4,6 @@ layout: default
 
 [Home](/) | [Blog](/blog)
 
-# Tilli Netta Saunders
-
-Mixed-Discipline Designer with a background in Mobile and F2P gaming.
-
-Based in England, working out of London. Looking for Level or Game Designer roles (Hybrid or Remote, or London based).
-
 ## About Me
 
 I am a Mixed-Discipline Designer. My professional background is rooted in Mobile and Free-to-Play (F2P) gaming. 
