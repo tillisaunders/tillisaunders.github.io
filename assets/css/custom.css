@@ -29,3 +29,29 @@
   display: block;
   margin-bottom: 1rem;
 }
+
+.page-section h3 {
+  font-weight: 400;
+  margin: 2rem 0 1rem;
+}
+
+.page-section h3:first-of-type {
+  margin-top: 0;
+}
+
+.page-section ul {
+  display: inline-block;
+  text-align: left;
+  font-size: 120%;
+  line-height: 1.6;
+  margin: 0 auto;
+  padding-left: 1.25rem;
+}
+
+.page-section li {
+  margin-bottom: 0.75rem;
+}
+
+.page-section li:last-child {
+  margin-bottom: 0;
+}
