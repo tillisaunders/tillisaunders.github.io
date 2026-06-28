@@ -1,0 +1,31 @@
+.page-section {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.page-section + .page-section {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.page-section h2 {
+  font-weight: 400;
+  margin: 0 0 1.5rem;
+}
+
+.page-section p {
+  font-size: 120%;
+  line-height: 1.6;
+  margin: 0 0 1rem;
+}
+
+.page-section p:last-child {
+  margin-bottom: 0;
+}
+
+.page-section em {
+  display: block;
+  margin-bottom: 1rem;
+}
